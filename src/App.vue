@@ -1,7 +1,7 @@
 <script setup>
-import Hello from './components/Hello.vue'
+import Frame from './components/Frame.vue'
 </script>
 
 <template>
-  <Hello msg="Hello!" />
+  <Frame />
 </template>
